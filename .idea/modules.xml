@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LabOne.iml" filepath="$PROJECT_DIR$/LabOne.iml" />
+      <module fileurl="file://C:\Users\Professional\Dropbox\GitHub\lab-1\LabOne.iml" filepath="C:\Users\Professional\Dropbox\GitHub\lab-1\LabOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1.iml" filepath="$PROJECT_DIR$/lab-1.iml" />
     </modules>
   </component>
 </project>
