@@ -65,7 +65,7 @@ public class LabOne {
      */
     private static void inputCheck() {
         boolean correctInput = true; // will check that user has input 'n', 'N', 'y', or 'Y'
-        char userContinueCheck = '0'; // will check that user wants to repeat the program
+        char userContinueCheck = 'z'; // will check that user wants to repeat the program
 
         do {
             System.out.print("Continue? (y/n): ");
@@ -82,7 +82,7 @@ public class LabOne {
                     correctInput = true; // 'n' and 'N' are correct input
                     doAgain = false; // will exit the main program
                     break;
-                case '0':
+                case 'z':
                     correctInput = true; // can repeat test if tester wants
                     System.out.println("Your userContinueCheck has failed.");
                     break;
